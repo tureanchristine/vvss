@@ -5,9 +5,9 @@ package lab1;
  * Hello world!
  *
  */
+import lab1.controller.DoctorController;
+import lab1.ui.DoctorUI;
 import repository.Repository;
-import ui.DoctorUI;
-import controller.DoctorController;
 
 public class App {
 
